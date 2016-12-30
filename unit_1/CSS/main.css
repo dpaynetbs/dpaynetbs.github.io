@@ -1,9 +1,20 @@
 h1 {
+		font-family: Arial, sans serif;
+		font-weight: bold;
+		font-size: 48px;
 		color: #E84C1A;
 }
 		body {
 	background-color: white;
 }
-h3, p {
+h2	{font-size: 36px;
+}
+h3,	{
+	font-family: arial;
+	font-size: 24px;
+	color: #5175FF;
+	} 
+
+p {
 	color: black;
 }
