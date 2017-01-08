@@ -1,40 +1,43 @@
 h1 {
 		font-family: Arial, sans-serif;
 		font-weight: bold;
-		font-size: 48px;
+		font-size: 50px;
 		color: #E84C1A;
 		text-transform: uppercase;
 		text-align: center;
 }
 body {
 	text-align: center;
-	background: src="images/bluesky.jpg";
+	background: src="images/brownsugarhome.png";
 	background-size: cover;
 }
 h2	{font-size: 40px;
 	text-decoration: underline;
 }
 #slogan {
-	font-size: 48px
+	font-size: 36px;
 	font-weight: bold;
 	font-style: italic;
 }
 
 h3,	{
 	font-family: helvetica;
-	font-size: 16px;
+	font-size:24px;
 	color: #5175FF;
 	} 
 
 p {
 	color: black;
+	font-size: 18;
 }
 .important {
 	font-size: 24px;
-	color: #ffc83a;
+	color: #e84c1a;
 }
 
 a {
 	font-style: italic;
 	text-decoration: none;
+	font-size: 16;
+	color: red;
 }
