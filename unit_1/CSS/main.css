@@ -1,16 +1,21 @@
 h1 {
-		font-family: Arial, sans serif;
+		font-family: Arial, sans-serif;
 		font-weight: bold;
 		font-size: 48px;
 		color: #E84C1A;
+		text-transform: uppercase;
+		text-align: center;
 }
 		body {
-	background: url("http://imgur.com/gallery/3QNoRCj");
+	background: src="images/brownsugarhome.png";
 }
 h2	{font-size: 40px;
+	text-decoration: underline;
 }
-#second {
-	font-size=48
+#slogan {
+	font-size: 48px
+	font-weight: bold;
+	font-style: italic;
 }
 
 h3,	{
@@ -21,4 +26,13 @@ h3,	{
 
 p {
 	color: black;
+}
+.important {
+	font-size: 24px;
+	color: #ffc83a;
+}
+
+a {
+	font-style: italic;
+	text-decoration: none;
 }
