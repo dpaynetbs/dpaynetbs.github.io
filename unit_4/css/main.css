@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 body {
 	text-align: center;
 	background: url("../images/bluesky.jpg");
@@ -5,37 +6,37 @@ body {
 	background-repeat: no-repeat;
 }
 h1 {
-	font-family: Helvetica;   
+	font-family: 'Oswald', sans-serif;   
 	font-weight: bold;
-	font-size: 50px;
-	color: #E84C1A;
+	font-size: 68px;
+	color: #fff;
 	text-transform: uppercase;
 	text-align: center;
 }
 h2	{
-	font-size: 40px;
+	font-size: 44px;
 }
 h3	{
 	font-family: helvetica;
-	font-size:24px;
-	color: #5175FF;
+	font-size:30px;
+	color: #FF0000;
 } 
 p {
-	color: black;
-	font-size: 18;
+	color: #fff;
+	font-size: 30px;
 }
 a {
 	font-style: italic;
 	text-decoration: none;
-	font-size: 16;
+	font-size: 24px;
 	color: blue;
 }
 .important {
-	font-size: 36px;
-	color: #e84c1a;
+	font-size: 34px;
+	color: #72FF57;
 }
 #slogan {
-	font-size: 36px;
+	font-size: 60px;
 	font-weight: bold;
 	font-style: italic;
 	color: #fff;
