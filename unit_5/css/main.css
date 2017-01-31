@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+	font-size:20px;
+}
+section {
+	padding:4em 0;
+}
+h1 {
+	font-family: 'Oswald', sans-serif;   
+	font-weight: bold;
+	font-size: 68px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+h2	{
+	font-size: 44px;
+}
+h3	{
+	font-family: helvetica;
+} 
+a {
+	font-style: italic;
+	text-decoration: none;
+	font-size: 24px;
+	color: blue;
+}
+.important {
+	font-size: 34px;
+	color: #72FF57;
+	margin: 1em auto;
+	/* width: 30em; */
+}
+#slogan {
+	font-size: 60px;
+	font-weight: bold;
+	font-style: italic;
+	color: #fff;
+}
+#splash {
+	text-align: center;
+	background: url("../images/bluesky.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding: 8em 0;
+}
+#legs {
+    width: 1200px;
+    margin: auto;
+}
+#legs section {
+    width: 33.33%;
+    float: left;
+    padding: 2em;
+}
+#legs img {
+    width: 75%;
+    display: block;
+    margin: 0 auto 1em;
+}
+footer {
+	clear: both;
+	border-top: 1px solid;
+	padding: 4em;
+}
